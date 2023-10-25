@@ -1,5 +1,7 @@
 <h1 align="center">
-  Hi there, I am Alkis Koudounas 👋
+  Hi there, I am Alkis Koudounas 👋 
+  
+  🇮🇹 🇬🇷
 </h1>
 
 <br/>
@@ -28,13 +30,13 @@
 
 
 
-I am a first-year Ph.D. student at Politecnico di Torino.  
+I am a second-year Ph.D. student at Politecnico di Torino.  
 I am the teaching assistant for [Data Science Lab: Process and Methods](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/26/data-science-lab-process-and-methods-2022-23/) and [Data Science and Database Technology](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/27/data-science-e-tecnologie-per-le-basi-di-dati-2022-2023/) courses.
 
 
-- I am interested in 🔉 Audio and Speech Processing, 📝 NLP, and 🔬 Trustworthy AI.
-- 🗣️ I am mainly working on a joint project with Amazon Alexa AI in Fairness in E2E SLU Models.
-- I am also working on other projects, including 🇮🇹 Italian SLU, 🎶 Music Generation, ⚖️ Legal AI, 🔍 Aerial Object Detection, 🎸🥁 Music Source Separation, and many more!
+- I am interested in 🔉 Audio, 🗣 Speech, and 🎼 Music Processing, 📝 NLP and Audio-Text Multi-modal Understanding, and 🔬 Trustworthy AI.
+- 🎯 I am mainly working on a joint project with Amazon Alexa AI in Fairness in E2E SLU Models.
+- I am also working on other projects, including 🇮🇹 Italian SLU, 🎶 Music Generation, 🎸🥁 Music Source Separation, ⚖️ Legal AI, 🪐🔭 Exoplanets Atmospheric Parameters Estimation, and many more!
 - 🔭 I’m a space enthusiast and I love taking night-ish photos!
 - 💬 I'm looking to collaborate on the analysis of spoken content, get in touch if you are interested!
 - 📫 Reach me by [mail](mailto:alkis.koudounas@polito.it) or have a look at my [website](https://koudounasalkis.github.io/).
