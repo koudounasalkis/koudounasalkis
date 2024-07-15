@@ -30,7 +30,7 @@
 
 
 
-I am a second-year Ph.D. student at Politecnico di Torino.  
+I am a second-year Ph.D. student at Politecnico di Torino and an Applied Research Intern at Amazon AGI Speech Recognition.  
 I am the teaching assistant for [Data Science Lab: Process and Methods](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/26/data-science-lab-process-and-methods-2022-23/) and [Data Science and Database Technology](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/27/data-science-e-tecnologie-per-le-basi-di-dati-2022-2023/) courses.
 
 
