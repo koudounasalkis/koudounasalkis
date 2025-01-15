@@ -37,27 +37,30 @@
 </a>
 
 ## :book: About me 
-- 🖥 Third-year Ph.D. student @PoliTO 🇮🇹
-- 🚀 Applied Research Intern @Amazon AGI 🇩🇪
+- 🖥 Third-year Ph.D. student @[PoliTO](https://www.polito.it/personale?p=alkis.koudounas) 🇮🇹
+- 🚀 Applied Research Intern @[Amazon AGI](https://www.amazon.science/) 🇩🇪
 - 📚 Teaching assistant for [Data Science Lab: Process and Methods](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/26/data-science-lab-process-and-methods-2022-23/) and [Data Science and Database Technology](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/27/data-science-e-tecnologie-per-le-basi-di-dati-2022-2023/) courses
-- 🇮🇹 🇬🇷 Language Ambassador for [C4AI Aya Project](https://cohere.com/research/aya)
-- 🥇 Supervisor and Challenge-winner @[MALTO Student Team](https://mal-to.github.io/)
-- 🦾 Passionate Hackathlete
+- 🇮🇹 🇬🇷 Language Ambassador for C4AI [Aya](https://cohere.com/research/aya) and [Aya Expanse](https://cohere.com/blog/aya-expanse-connecting-our-world) projects
+- 🥇 Supervisor and challenge-winner @[MALTO Student Team](https://mal-to.github.io/)
+- 🦾 Passionate hackathlete
   - [🎧 PACE: Podcast AI for Chapters and Episodes](https://github.com/ALM-LAB/PACE)
   - [📝🎵 CALM: Contrastive Alignment of Language and Music](https://github.com/ALM-LAB/CALM)
   - [🌠 ρBerTO: A RoboTO solution to the NASA Space Apps Challenge](https://github.com/koudounasalkis/NASA_Space_Apps_Challenge)
-- ☕️ Coffee addicted 
+- 🌎 Wanderlust wanderer
+- 🔭 Space enthusiast
+- 📸 Nightscape photographer
+- ☕️ Coffee addicted
 
 
 ## 🔔 My latest research interests
-- I am interested in 🗣 Speech, 🔉 Audio, and 🎼 Music Processing... but also 📝 NLP and Speech-Text Multimodal Understanding, 🔬 Trustworthy and Responsible AI.
-- 🎯 I mainly worked on a joint project with Amazon Alexa AI (Turin) in Fairness in E2E SLU Models.
+- 🗣 Speech, 🔉 Audio, and 🎼 Music Processing, 📝 Speech-Text Multimodal Understanding
+- 🔬 Trustworthy and Responsible AI
+- 🎯 Worked on a 2-year joint project with Amazon Alexa AI on fairness in speech models
 - I've also been working on other projects, including 🇮🇹 Italian SLU, 👶🏻 Non-verbal Vocalizations, 💉 Voice pathologies detection, 🎶 Music Generation, 🎸🥁 Music Source Separation, ⚖️ Legal AI, 🪐🔭 Exoplanets Atmospheric Parameters Estimation, and many more!
-- 🔭 I’m a space enthusiast and love taking night-ish photos!
-- 💬 I'm looking to collaborate on the analysis of spoken content. Get in touch if you are interested!
 
 ## 📫 How to reach me
 - Send me an [mail](mailto:alkis.koudounas@polito.it) or have a look at my [website](https://koudounasalkis.github.io/)!
+- 💬 I'm looking to collaborate on the analysis of spoken content. Get in touch if you are interested!
 
 <!--
 **koudounasalkis/koudounasalkis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
