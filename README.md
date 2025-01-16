@@ -52,15 +52,26 @@
 - ☕️ Coffee addicted
 
 
-## 🔔 My latest research interests
+## 🔔 My (latest) research interests
 - 🗣 Speech, 🔉 Audio, and 🎼 Music Processing, 📝 Speech-Text Multimodal Understanding
 - 🔬 Trustworthy and Responsible AI
 - 🎯 Worked on a 2-year joint project with Amazon Alexa AI on fairness in speech models
-- I've also been working on other projects, including 🇮🇹 Italian SLU, 👶🏻 Non-verbal Vocalizations, 💉 Voice pathologies detection, 🎶 Music Generation, 🎸🥁 Music Source Separation, ⚖️ Legal AI, 🪐🔭 Exoplanets Atmospheric Parameters Estimation, and many more!
+- Many other projects, including:
+  - 🇮🇹 Italian SLU
+  - 👶🏻 Non-verbal Vocalizations
+  - 💉 Voice pathologies detection and dysarthric speech
+  - 🎶 Music Generation
+  - 🎸🥁 Music Source Separation
+  - ⚖️ Legal AI
+  - 🪐🔭 Exoplanets Atmospheric Parameters Estimation
+  - and more!
 
 ## 📫 How to reach me
 - Send me an [mail](mailto:alkis.koudounas@polito.it) or have a look at my [website](https://koudounasalkis.github.io/)!
 - 💬 I'm looking to collaborate on the analysis of spoken content. Get in touch if you are interested!
+
+## ✍🏻 Master thesis proposals
+- A list of master thesis proposals that I am currently proposing can be found [here](https://github.com/koudounasalkis/Master-Thesis-Proposal)!
 
 <!--
 **koudounasalkis/koudounasalkis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
