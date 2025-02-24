@@ -46,16 +46,14 @@
   - [🎧 PACE: Podcast AI for Chapters and Episodes](https://github.com/ALM-LAB/PACE)
   - [📝🎵 CALM: Contrastive Alignment of Language and Music](https://github.com/ALM-LAB/CALM)
   - [🌠 ρBerTO: A RoboTO solution to the NASA Space Apps Challenge](https://github.com/koudounasalkis/NASA_Space_Apps_Challenge)
-- 🌎 Wanderlust wanderer
-- 🔭 Space enthusiast and 📸 nightscape photographer
+- 🌎 Wanderlust wanderer, 🔭 Space enthusiast, and 📸 nightscape photographer
 - ☕️ Coffee addicted
-
 
 ## 🔔 My (latest) research interests
 - 🗣 Speech, 🔉 Audio, and 🎼 Music Processing, 📝 Speech-Text Multimodal Understanding
-- 🔬 Trustworthy and Responsible AI
+- 🔬 Trustworthy and Responsible AI, ⚖️ Preference Learning
 - 🎯 Worked on a 2-year joint project with Amazon Alexa AI on fairness in speech models
-- Many other projects, including 🇮🇹 Italian SLU, 💉 Voice pathologies detection and dysarthric speech, 👶🏻 Non-verbal Vocalizations, 🎶 Music Generation, 🎸🥁 Music Source Separation, ⚖️ Legal AI, 🪐🔭 Exoplanets Atmospheric Parameters Estimation, and more!
+- Many other projects, including 🇮🇹 Italian SLU, 💉 Voice pathologies detection and dysarthric speech, 👶🏻 Non-verbal Vocalizations, 🎶 Music Generation, 🎸🥁 Music Source Separation, 🪧 Legal AI, 🪐🔭 Exoplanets Atmospheric Parameters Estimation, and more!
 
 ## 📫 How to reach me
 - Send me an [mail](mailto:alkis.koudounas@polito.it) or have a look at my [website](https://koudounasalkis.github.io/)!
