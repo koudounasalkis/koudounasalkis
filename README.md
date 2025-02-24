@@ -47,8 +47,7 @@
   - [📝🎵 CALM: Contrastive Alignment of Language and Music](https://github.com/ALM-LAB/CALM)
   - [🌠 ρBerTO: A RoboTO solution to the NASA Space Apps Challenge](https://github.com/koudounasalkis/NASA_Space_Apps_Challenge)
 - 🌎 Wanderlust wanderer
-- 🔭 Space enthusiast
-- 📸 Nightscape photographer
+- 🔭 Space enthusiast and 📸 nightscape photographer
 - ☕️ Coffee addicted
 
 
